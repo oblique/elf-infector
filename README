@@ -1,4 +1,5 @@
 This is an elf infector based on Silvio's algorithm with some extra things.
-You can edit parasite.h to put your parasite.
+You can edit parasite.h to put your parasite. The parasite will be executed
+before the original code starts.
 
 oblique 2010
